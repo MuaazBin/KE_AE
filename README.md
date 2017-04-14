@@ -1,5 +1,5 @@
 # KE_AE
-Teknomo's Q Learning Tutorial Code is adapted for
+Teknomo's Q Learning Tutorial MATLAB Code is adapted for
 our coursework. Graphs are added and Eligibility Traces is incorporated
 
 File 1 
@@ -21,3 +21,8 @@ Reward Matrixes in CSV Files
 RewardMatrix25 was just for testing and can be ignored
 
 By: Muaaz Bin Sarfaraz and Chadi El-Hajj
+These files should be refered with the actual coursework report.
+
+email: muaazbinsarfaraz@yahoo.com
+
+Ref:http://people.revoledu.com/kardi/tutorial/ReinforcementLearning/
