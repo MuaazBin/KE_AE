@@ -26,3 +26,6 @@ These files should be refered with the actual coursework report.
 email: muaazbinsarfaraz@yahoo.com
 
 Ref:http://people.revoledu.com/kardi/tutorial/ReinforcementLearning/
+
+MAZE to be solved by agent
+![graphmaze1](https://cloud.githubusercontent.com/assets/26718866/26690367/eef8dcfc-46f0-11e7-8174-72666874cb18.jpg)
